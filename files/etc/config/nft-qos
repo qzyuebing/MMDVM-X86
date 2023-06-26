@@ -1,0 +1,17 @@
+
+config default 'default'
+	option limit_enable '1'
+	option limit_type 'static'
+	option static_rate_ul '50'
+	option limit_mac_enable '0'
+	option priority_enable '0'
+	option static_rate_dl '100'
+	option static_unit_dl 'mbytes'
+	option static_unit_ul 'mbytes'
+
+config upload
+	option unit 'mbytes'
+	option hostname 'wxy'
+	option rate '1'
+	option ipaddr '192.168.2.98'
+
