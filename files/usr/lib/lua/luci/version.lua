@@ -16,5 +16,5 @@ else
 	distversion = "Development Snapshot"
 end
 
-luciname    = "MMDVM X86"
-luciversion = "山东·潍坊"
+luciname    = "MMDVM x86"
+luciversion = "数字热点"
